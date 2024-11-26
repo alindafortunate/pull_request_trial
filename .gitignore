@@ -1,0 +1,8 @@
+# ignore all python related files.
+*.py
+
+# But track this one specifically
+!main002.py
+
+# Ignore all files in the build directory.
+build/
